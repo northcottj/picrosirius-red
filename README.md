@@ -1,9 +1,9 @@
 # picrosirius-red
 ImageJ macro for quantification of polarized light images of picrosirius red stained tissues.
 
------PICROSIRIUS RED QUANTIFICATION MACRO-----/
+-----PS RED QUANTIFICATION-----/
 Written 2017-03-08 by Josette Northcott for Weaver Lab use.
-This is version 1.1 of this macro (updated 2017-03-24 by J.Northcott).
+This is version 1.1 of this ImageJ macro (updated 2017-03-24 by J.Northcott).
 
 -----VERSION NOTES-----/
 Version 1.1 changes: Intensity measurements confined to user defined area (set by threshold).
